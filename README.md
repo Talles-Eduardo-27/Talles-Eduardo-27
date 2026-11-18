@@ -27,8 +27,9 @@ Estou publicando aqui os projetos que construo durante os estudos (DevClub e Dax
 
 | Projeto | Área | Status |
 |---|---|---|
-| Em breve | Automação com IA | 🔨 em construção |
-| Em breve | Análise de dados | 🔨 em construção |
+| [Maré Cheia · landing page de restaurante](https://github.com/Talles-Eduardo-27/landing-restaurante) ([ver ao vivo](https://talles-eduardo-27.github.io/landing-restaurante/)) | Front-end para pequenos negócios | ✅ pronto |
+| Análise de vendas (Excel, SQL e Python) | Análise de dados | 🔨 em construção |
+| Atendimento automático no WhatsApp (n8n) | Automação com IA | 🔨 em construção |
 
 ## 📫 Contato
 
