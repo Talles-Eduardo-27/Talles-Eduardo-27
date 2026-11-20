@@ -23,13 +23,13 @@ Hoje trabalho com atendimento técnico e monitoramento de CFTV. Antes, fui Jovem
 
 ## 🚧 Projetos
 
-Estou publicando aqui os projetos que construo durante os estudos (DevClub e Daxus). Cada repositório tem o problema, a solução e o que aprendi.
+Projetos de portfólio **feitos com IA (Claude) e revisados por mim** enquanto estudo. A meta é conseguir refazer cada um sozinho ao longo da formação.
 
-| Projeto | Área | Status |
+| Projeto | O que mostra | Links |
 |---|---|---|
-| [Maré Cheia · landing page de restaurante](https://github.com/Talles-Eduardo-27/landing-restaurante) ([ver ao vivo](https://talles-eduardo-27.github.io/landing-restaurante/)) | Front-end para pequenos negócios | ✅ pronto |
-| Análise de vendas (Excel, SQL e Python) | Análise de dados | 🔨 em construção |
-| Atendimento automático no WhatsApp (n8n) | Automação com IA | 🔨 em construção |
+| 🍧 Análise de vendas · Açaí Jangada | Limpeza de dados, SQL (CTEs e funções de janela), Python (pandas), relatório em Excel e painel web com 22 meses de vendas fictícias | [código](https://github.com/Talles-Eduardo-27/analise-vendas) · [painel](https://talles-eduardo-27.github.io/analise-vendas/) |
+| 💬 Atendimento automático no WhatsApp | Fluxo no n8n com IA e API oficial do WhatsApp, mais um simulador para apresentar a clientes | [código](https://github.com/Talles-Eduardo-27/atendimento-whatsapp) · [simulador](https://talles-eduardo-27.github.io/atendimento-whatsapp/) |
+| 🌐 Sites para negócios locais | Páginas de uma página com serviços, preços e agendamento que vai pronto para o WhatsApp | [restaurante](https://talles-eduardo-27.github.io/landing-restaurante/) · [salão](https://talles-eduardo-27.github.io/landing-salao/) · [clínica](https://talles-eduardo-27.github.io/landing-clinica/) · [academia](https://talles-eduardo-27.github.io/landing-academia/) · [pet shop](https://talles-eduardo-27.github.io/landing-petshop/) |
 
 ## 📫 Contato
 
